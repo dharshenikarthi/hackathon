@@ -41,4 +41,4 @@ This project is built with:
 
 
 ## Result
-    Job screening ai is successfully created using multiagent framework,sqlite database,ollama.
+  Job screening ai is successfully created using multiagent framework,sqlite database,ollama.
